@@ -1,0 +1,9 @@
+# 2026-09-17T22:23:47.8329498+02:00
+POST /Discover HTTP/1.1
+# remote: ::ffff:192.168.178.105:61460
+Host: 192.168.178.105:8771
+Accept-Encoding: identity
+Content-Type: application/octet-stream
+Content-Length: 0
+
+# body: 0 bytes -> 002-Discover.plist

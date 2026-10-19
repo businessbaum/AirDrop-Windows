@@ -1,0 +1,31 @@
+{
+  "retrieved_on": "2026-09-17",
+  "purpose": "Research source snapshots, not validated implementation dependencies",
+  "repositories": [
+    {
+      "url": "https://github.com/seemoo-lab/opendrop",
+      "branch": "master",
+      "commit": "11fe7ba7861093b302bc0637e8cb10adf2d29337"
+    },
+    {
+      "url": "https://github.com/seemoo-lab/owl",
+      "branch": "master",
+      "commit": "da255a70f221784c836d943dd3f243bc798f223b"
+    },
+    {
+      "url": "https://github.com/ayourtch-llm/opendrop-rs",
+      "branch": "main",
+      "commit": "dccc798e244363eb92d35e3c52e9a913188dda91"
+    },
+    {
+      "url": "https://github.com/jedbillyb/airdrop-mt7921",
+      "branch": "main",
+      "commit": "5e1ede17242a07dd446b937c94c186e9bb9daa6e"
+    },
+    {
+      "url": "https://github.com/UvejsGj/WinDrop",
+      "branch": "main",
+      "commit": "9280671c073113ace5d17f553dbd589030aa26bf"
+    }
+  ]
+}

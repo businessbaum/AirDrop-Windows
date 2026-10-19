@@ -1,0 +1,9 @@
+# 2026-09-17T22:23:47.9118692+02:00
+POST /Upload HTTP/1.1
+# remote: ::ffff:192.168.178.105:61462
+Host: 192.168.178.105:8771
+Accept-Encoding: identity
+Content-Type: application/x-dvzip
+Content-Length: 4217
+
+# body 4217 bytes -> 004-Upload.bin

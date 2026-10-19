@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>airdrop-receiver</AssemblyName>
+    <RootNamespace>Receiver.Host</RootNamespace>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Receiver.Mdns\Receiver.Mdns.csproj" />
+    <ProjectReference Include="..\Receiver.Protocol\Receiver.Protocol.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Apple speaks binary property lists on every AirDrop endpoint. plist-cil is the
+         same library the AirPlay receiver in this workspace already uses successfully. -->
+    <PackageReference Include="plist-cil" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>

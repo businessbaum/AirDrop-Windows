@@ -1,0 +1,82 @@
+﻿# command: netsh wlan show wirelesscapabilities
+# exitCode: 0
+# capturedUtc: 2026-09-17T19:19:16.9456632+00:00
+
+
+Funktionen des Drahtlossystems 
+---------------------------- 
+    Die Anzahl der Antennen für die 802.11-Drahtlosverbindung (Wert nicht verfügbar)
+    Max. Anzahl von Kanälen, die das Gerät gleichzeitig unterstützt (kein Wert verfügbar)
+    Koexistenzunterstützung                        : Unbekannt
+
+
+Eigenschaften von Drahtlosgeräten 
+---------------------------- 
+
+Schnittstellenname: WLAN
+
+    WDI-Version (Windows)                       : 0.1.1.13
+    WDI-Version (IHV)                           : 0.1.1.12
+    WiFiCx Version (IHV)                        : WiFiCx-Schnittstelle wird nicht unterstützt
+    Firmwareversion                            : 20220225140545
+    Station                                     : Unterstützt
+    Bedingter Zugriffspunkt                                     : Nicht unterstützt
+    Netzwerküberwachungsmodus                        : Nicht unterstützt
+    Wi-Fi Direct-Gerät                         : Unterstützt
+    Wi-Fi Direct-GO                             : Unterstützt
+    Wi-Fi Direct-Client                         : Unterstützt
+    Geschützte Management Frames                 : Unterstützt
+    DOT11k-Nachbarbericht                      : Unterstützt
+    Ermittlung von ANQP-Dienstinformationen          : Unterstützt
+    Aktionsrahmen                                : Unterstützt
+    Antennendiversität                           : Nicht unterstützt
+    IBSS                                        : Nicht unterstützt
+    Promiskuitiver Modus                            : Nicht unterstützt
+    P2P-Geräteerkennung                        : Nicht unterstützt
+    Ermittlung von P2P-Dienstnamen                  : Nicht unterstützt
+    Ermittlung von P2P-Dienstinformationen                  : Nicht unterstützt
+    P2P-Hintergrundermittlung                    : Nicht unterstützt
+    P2P GO für 5 GHz                             : Unterstützt
+    P2P GO mit 6 GHz: Nicht unterstützt
+    P2P Sae auf GO : Nicht unterstützt
+    Ermittlung von ASP 2.0-Dienstnamen              : Nicht unterstützt
+    Ermittlung von ASP 2.0-Dienstinformationen       : Nicht unterstützt
+    IP-dockingfähig                          : Nicht unterstützt
+    Host-FIPS-Modus: Unterstützt
+    Direktverbindung                             : Unterstützt
+    Dx-Standby-NLO                              : Unterstützt
+    Erweiterte Channel-Switch-Ankündigung        : Nicht unterstützt
+    Zurücksetzen der Funktionsebene                        : Unterstützt
+    Zurücksetzung der Plattformebene                        : Unterstützt
+    Zurücksetzen auf Busebene                             : Unterstützt
+    MAC-Randomisierung                           : Unterstützt
+    Schnellübergang                             : Unterstützt
+    MU-MIMO                                     : Nicht unterstützt
+    Miracast-Senke                               : Unterstützt
+    BSS-Übergang (802.11v)                    : Unterstützt
+    IHV-Erweiterbarkeitsmodul konfiguriert         : Unterstützt
+    SAE-Authentifizierung                          : Unterstützt
+    SAE-Hash-zu-Element-Authentifizierung: Unterstützt
+    WPA3 SUITE-B-Authentifizierung                 : Nicht unterstützt
+    OWE-Authentifizierung                          : Unterstützt
+    FTM als Initiator                            : Nicht unterstützt
+    MBO-Unterstützung                                 : Unterstützt
+    Anzahl der Tx-Signalströme                : 2
+    Anzahl der Rx-Signalströme                : 2
+    Anzahl der gleichzeitig unterstützten Kanäle     : 2
+    Anzahl der Funkgeräte                            : 0
+    Anzahl der P2P-GO-Ports                          : 1
+    Anzahl der P2P-Clientports                      : 2
+    Maximale Anzahl an mobilen Zugriffspunkten für P2P-Clients                   : 8
+    Maximal unterstützte ANQP-Dienstankündigungen   : 0
+    Maximal unterstützte Anzahl von Sekundär-STAs  : 0
+    Anzahl unterstützter MLO-Verbindungen:         : 0
+    Unterstützte QoS MSCS                          : Nicht unterstützt
+    Unterstützte QoS-DSCP-zu-UP-Zuordnung            : Nicht unterstützt
+    Maximale Anzahl unterstützter Aktivierungsmuster für eingehende Aktionsrahmen: 0
+    Wpa3-Sae mit 384-Bit-Pmk unterstützt         : Nicht unterstützt
+    Roaming zwischen Akm/Verschlüsselung                    : Nicht unterstützt
+    Koexistenzunterstützung                        : Unbekannt
+
+
+

@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Receiver.Diagnostics/Receiver.Diagnostics.csproj" />
+    <Project Path="src/Receiver.Host/Receiver.Host.csproj" />
+    <Project Path="src/Receiver.Mdns/Receiver.Mdns.csproj" />
+    <Project Path="src/Receiver.Protocol/Receiver.Protocol.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Receiver.Protocol.Tests/Receiver.Protocol.Tests.csproj" />
+  </Folder>
+</Solution>

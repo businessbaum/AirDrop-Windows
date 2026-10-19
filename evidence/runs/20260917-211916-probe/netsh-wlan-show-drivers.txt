@@ -1,0 +1,45 @@
+﻿# command: netsh wlan show drivers
+# exitCode: 0
+# capturedUtc: 2026-09-17T19:19:16.8832170+00:00
+
+
+Schnittstellenname: WLAN
+
+    Treiber                   : RZ608 Wi-Fi 6E 80MHz
+    Hersteller                : MediaTek, Inc.
+    Anbieter                  : MediaTek, Inc.
+    Datum                     : 25.02.2022
+    Version                   : 3.3.0.467
+    INF-Datei                 : oem22.inf
+    Typ                       : Wi-Fi-Treiber (Ursprungsversion)
+    Unterstützte Funktypen    : 802.11b 802.11a 802.11g 802.11n 802.11ac 802.11ax
+    FIPS 140-Modus wird unterstützt: Ja
+    802.11w Management Frame Protection wird unterstützt: Ja
+    Unterstützte gehostete Netzwerke  : Nein
+    Im Infrastrukturmodus unterstützte Authentifizierung und unterstütztes Verschlüsselungsverfahren:
+                                Offen            Keine
+                                Offen            WEP-40bit
+                                Offen            WEP-104bit
+                                Offen            WEP
+                                Firmenweiter WPA TKIP
+                                Firmenweiter WPA CCMP
+                                WPA3-Personal    CCMP
+                                OWE              CCMP
+                                WPA-Personal     TKIP
+                                WPA-Personal     CCMP
+                                WPA2-Enterprise  TKIP
+                                WPA2-Enterprise  CCMP
+                                WPA2-Personal    TKIP
+                                WPA2-Personal    CCMP
+    Anzahl unterstützter Bänder: 3
+                                2,4 GHz [ 0 MHz – 0 MHz]
+                                5 GHz [ 0 MHz – 0 MHz]
+                                6 GHz [ 0 MHz – 0 MHz]
+    IHV-Dienst vorhanden      : Ja
+    IHV-Adapter-OUI           : [00 00 00], Typ: [00]
+    IHV-Erweiterbarkeits-DLL-Pfad: C:\WINDOWS\system32\mtkihvx.dll
+    IHV UI-Erweiterbarkeits-ClSID: {00000000-0000-0000-0000-000000000000}
+    IHV-Diagnose-CLSID     : {00000000-0000-0000-0000-000000000000}
+    Unterstützte drahtlose Anzeige: Ja (Grafiktreiber: Ja, Wi-Fi-Treiber: Ja)
+
+

@@ -1,0 +1,6 @@
+﻿# command: C:\Windows\System32\Npcap\WlanHelper.exe 326b7bc5-6c34-4786-9941-238e2b53b692 mode
+# exitCode: 0
+# capturedUtc: 2026-09-17T19:19:17.0424941+00:00
+
+managed
+

@@ -1,0 +1,9 @@
+# 2026-09-17T22:23:47.8805851+02:00
+POST /Ask HTTP/1.1
+# remote: ::ffff:192.168.178.105:61461
+Host: 192.168.178.105:8771
+Accept-Encoding: identity
+Content-Type: application/octet-stream
+Content-Length: 327
+
+# body: 327 bytes -> 003-Ask.plist

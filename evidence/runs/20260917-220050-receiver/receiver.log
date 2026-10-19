@@ -1,0 +1,27 @@
+22:00:50.661 AirDrop receiver starting. Evidence: <repo>\evidence\runs\20260917-220050-receiver
+22:00:50.740 service id  : 7899e6e13e8f
+22:00:50.742 certificate : CN=Windows-PC, thumbprint D6E6E9C48EF32FC6A2727136D95FC188C52E0167
+22:00:50.761 interfaces  : WLAN
+22:00:50.764 advertising : 2001:db8::1, 2001:db8::1, 192.168.178.105
+22:00:50.927 HTTPS listening on port 8771
+22:00:50.934 mdns: joined 224.0.0.251 on 'WLAN' via 192.168.178.105 (ifIndex 6)
+22:00:50.936 mdns: joined ff02::fb on 'WLAN' (ifIndex 6)
+22:00:50.939 advertising 7899e6e13e8f._airdrop._tcp.local. -> windows-pc-airdrop.local.:8771 (flags=0x4)
+22:00:50.942 Open the AirDrop sheet on the iPhone now. Ctrl+C to stop.
+22:00:51.208 mdns: announced services
+22:00:52.197 mdns: announced services
+22:00:53.194 mdns: announced services
+22:01:04.771 mdns: answered [fe80::1004%6]:5353 -> _services._dns-sd._udp.local. PTR
+22:01:04.771 mdns: answered 192.168.178.105:5353 -> _services._dns-sd._udp.local. PTR
+22:01:04.772 mdns: answered [fe80::1004%6]:5353 -> _airdrop._tcp.local. PTR
+22:01:04.772 mdns: answered 192.168.178.105:5353 -> _airdrop._tcp.local. PTR
+22:01:04.797 mdns: answered 192.168.178.103:5353 -> _services._dns-sd._udp.local. PTR
+22:01:04.797 mdns: answered 192.168.178.103:5353 -> _airdrop._tcp.local. PTR
+22:01:04.799 mdns: answered [fe80::1005%6]:5353 -> _services._dns-sd._udp.local. PTR
+22:01:04.800 mdns: answered [fe80::1005%6]:5353 -> _airdrop._tcp.local. PTR
+22:01:04.801 mdns: answered [fe80::1005%6]:5353 -> _services._dns-sd._udp.local. PTR
+22:01:04.801 mdns: answered [fe80::1005%6]:5353 -> _airdrop._tcp.local. PTR
+22:01:12.071 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:01:12.071 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:01:12.074 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:01:12.075 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY

@@ -1,0 +1,15 @@
+13:06:46.963 AirDrop receiver starting. Evidence: <repo>\evidence\runs\20260918-130646-receiver
+13:06:46.967 received files go to: %USERPROFILE%\Downloads\AirDrop
+13:06:46.997 service id  : bf49b82d9499
+13:06:47.000 certificate : CN=Windows-PC, thumbprint F1D7000FAA1E54C743B41765324C50390C7724F0
+13:06:47.027 interfaces  : Ethernet
+13:06:47.029 advertising : 192.168.178.103
+13:06:47.142 HTTPS listening on port 8770
+13:06:47.150 mdns: bound 192.168.178.103 on 'Ethernet' (ifIndex 23), joined 224.0.0.251
+13:06:47.153 mdns: bound fe80::1005%23 on 'Ethernet' (ifIndex 23), joined ff02::fb
+13:06:47.156 advertising bf49b82d9499._airdrop._tcp.local. -> deddb511-f435-40dc-9a83-07141694f08e.local.:8770 (flags=0xA)
+13:06:47.157 Open the AirDrop sheet on the iPhone now. Ctrl+C to stop.
+13:06:47.424 mdns: announced services
+13:06:48.412 mdns: announced services
+13:06:49.410 mdns: announced services
+17:19:38.796 mdns: answered 192.168.178.67:5353 -> _airdrop._tcp.local. PTR (QU)

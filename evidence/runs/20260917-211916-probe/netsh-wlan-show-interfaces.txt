@@ -1,0 +1,17 @@
+﻿# command: netsh wlan show interfaces
+# exitCode: 0
+# capturedUtc: 2026-09-17T19:19:17.0023320+00:00
+
+
+Es ist 1 Schnittstelle auf dem System vorhanden:
+
+    Name                   : WLAN
+    Beschreibung            : RZ608 Wi-Fi 6E 80MHz
+    GUID                   : 326b7bc5-6c34-4786-9941-238e2b53b692
+    Physische Adresse       : 02:00:00:00:00:03
+    Benutzeroberflächentyp         : Primär
+    Status                  : getrennt
+    Funkstatus           : Hardware Aktiviert
+                             Software Aktiviert
+
+

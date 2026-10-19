@@ -1,0 +1,30 @@
+# Build
+bin/
+obj/
+TestResults/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# Lokaler Zustand: selbstsigniertes Zertifikat (receiver.pfx) und Geräte-IDs
+.state/
+
+# Doppelt vorhandener Snapshot der Doku
+AirDrop-Windows-Architektur.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code lokal
+.claude/settings.local.json
+
+# Raw mDNS captures of the home network (device names, MACs). Kept locally only;
+# the findings in docs/ quote the relevant lines in redacted form.
+evidence/runs/*/mdns-watch.txt
+
+# Brief for the coding agent, kept locally only
+KI-BAUAUFTRAG.md

@@ -1,0 +1,3 @@
+Claunia.PropertyList.PropertyListFormatException: The given data is not a property list of a supported format.
+   at Claunia.PropertyList.PropertyListParser.Parse(Byte[] bytes)
+   at Receiver.Host.AirDropEndpoints.ReadAndRecord(HttpContext ctx, String label, Int32 maxRecord) in <repo>\src\Receiver.Host\AirDropEndpoints.cs:line 157

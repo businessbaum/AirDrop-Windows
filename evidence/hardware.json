@@ -1,0 +1,45 @@
+{
+  "observed_on": "2026-09-17",
+  "observation_kind": "read_only_local_queries",
+  "windows": {
+    "caption": "Microsoft Windows 11 Pro",
+    "version": "10.0.26200",
+    "build": "26200"
+  },
+  "wifi": {
+    "name": "WLAN",
+    "description": "RZ608 Wi-Fi 6E 80MHz",
+    "vendor": "MediaTek, Inc.",
+    "hardware_id": "PCI\\VEN_14C3&DEV_0608&SUBSYS_060814C3&REV_00",
+    "driver_version": "3.3.0.467",
+    "driver_date": "2022-02-25",
+    "ndis_version": "6.70",
+    "connection_state": "Disconnected",
+    "wlanhelper_reported_modes": ["managed"],
+    "wlanhelper_current_mode": "managed",
+    "raw_rx_verified": false,
+    "raw_tx_over_air_verified": false,
+    "awdl_verified": false
+  },
+  "ethernet": {
+    "description": "Killer E3100G 2.5 Gigabit Ethernet Controller",
+    "state": "Up"
+  },
+  "npcap": {
+    "dll_product_version": "1.10.4",
+    "service_running": true,
+    "dot11_support_registry_value": 0
+  },
+  "apple_devices_user_reported": {
+    "iphone_ios": "latest installed; exact version and build unknown",
+    "macos": "Sequoia; exact version and build unknown"
+  },
+  "constraints": {
+    "native_airdrop_sender_ui": true,
+    "additional_radio_hardware": false,
+    "linux_runtime": false,
+    "relay_device": false,
+    "additional_sender_app": false
+  },
+  "interpretation": "No proven native Windows AWDL path. These observations do not establish physical hardware impossibility."
+}

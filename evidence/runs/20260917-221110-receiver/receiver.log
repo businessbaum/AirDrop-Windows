@@ -1,0 +1,87 @@
+22:11:10.831 AirDrop receiver starting. Evidence: <repo>\evidence\runs\20260917-221110-receiver
+22:11:10.855 service id  : bf49b82d9499
+22:11:10.858 certificate : CN=Windows-PC, thumbprint F1D7000FAA1E54C743B41765324C50390C7724F0
+22:11:10.877 interfaces  : WLAN
+22:11:10.879 advertising : 192.168.178.105
+22:11:10.961 HTTPS listening on port 8771
+22:11:10.969 mdns: bound 192.168.178.105 on 'WLAN' (ifIndex 6), joined 224.0.0.251
+22:11:10.972 mdns: bound fe80::1004%6 on 'WLAN' (ifIndex 6), joined ff02::fb
+22:11:10.975 advertising bf49b82d9499._airdrop._tcp.local. -> windows-pc-airdrop.local.:8771 (flags=0x3FB)
+22:11:10.977 Open the AirDrop sheet on the iPhone now. Ctrl+C to stop.
+22:11:11.242 mdns: announced services
+22:11:12.229 mdns: announced services
+22:11:12.853 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:11:12.854 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:11:12.860 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:11:12.861 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:11:13.236 mdns: announced services
+22:11:45.477 mdns: answered [fe80::1007%6]:5353 -> _airdrop._tcp.local. PTR (QU)
+22:11:45.477 mdns: answered 192.168.178.128:5353 -> _airdrop._tcp.local. PTR (QU)
+22:11:45.505 mdns: answered 192.168.178.128:5353 -> _airdrop._tcp.local. PTR (QU)
+22:11:45.507 mdns: answered [fe80::1007%6]:5353 -> _airdrop._tcp.local. PTR (QU)
+22:12:12.864 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:12:12.867 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:12:12.867 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:12:45.216 mdns: answered 192.168.178.67:5353 -> _airdrop._tcp.local. PTR
+22:12:45.218 mdns: answered [fe80::1008%6]:5353 -> _airdrop._tcp.local. PTR
+22:12:58.273 mdns: answered 192.168.178.105:5353 -> _services._dns-sd._udp.local. PTR
+22:12:58.274 mdns: answered 192.168.178.105:5353 -> _airdrop._tcp.local. PTR
+22:12:58.274 mdns: answered [fe80::1004%6]:5353 -> _services._dns-sd._udp.local. PTR
+22:12:58.274 mdns: answered [fe80::1004%6]:5353 -> _airdrop._tcp.local. PTR
+22:12:58.319 mdns: answered 192.168.178.103:5353 -> _services._dns-sd._udp.local. PTR
+22:12:58.319 mdns: answered 192.168.178.103:5353 -> _airdrop._tcp.local. PTR
+22:12:58.320 mdns: answered [fe80::1005%6]:5353 -> _services._dns-sd._udp.local. PTR
+22:12:58.320 mdns: answered [fe80::1005%6]:5353 -> _airdrop._tcp.local. PTR
+22:12:58.321 mdns: answered 192.168.178.103:5353 -> _services._dns-sd._udp.local. PTR
+22:12:58.321 mdns: answered [fe80::1005%6]:5353 -> _services._dns-sd._udp.local. PTR
+22:12:58.321 mdns: answered 192.168.178.103:5353 -> _airdrop._tcp.local. PTR
+22:12:58.321 mdns: answered [fe80::1005%6]:5353 -> _airdrop._tcp.local. PTR
+22:13:12.972 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:13:12.972 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:13:12.975 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:13:12.976 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:14:12.978 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:14:12.981 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:14:12.982 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:14:12.983 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:14:30.941 mdns: answered 192.168.178.128:5353 -> _airdrop._tcp.local. PTR (QU)
+22:14:30.942 mdns: answered 192.168.178.128:5353 -> bf49b82d9499._airdrop._tcp.local. TXT (QU)
+22:15:13.087 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:15:13.087 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:15:13.090 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:15:13.090 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:16:05.223 mdns: answered 192.168.178.67:5353 -> _airdrop._tcp.local. PTR (QU)
+22:16:13.193 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:16:13.195 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:16:13.198 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:16:13.199 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:17:13.204 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:17:13.205 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:17:13.210 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:17:13.215 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:18:13.097 mdns: answered 192.168.178.67:5353 -> _airdrop._tcp.local. PTR (QU)
+22:18:13.098 mdns: answered [fe80::1008%6]:5353 -> _airdrop._tcp.local. PTR (QU)
+22:18:13.429 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:18:13.430 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:18:13.437 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:18:13.438 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:19:13.417 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:19:13.420 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:19:13.421 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:19:13.421 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:19:45.795 mdns: answered 192.168.178.67:5353 -> _airdrop._tcp.local. PTR (QU)
+22:20:14.038 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:20:14.039 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:20:14.041 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:20:14.042 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:21:06.966 mdns: answered 192.168.178.67:5353 -> _airdrop._tcp.local. PTR
+22:21:06.966 mdns: answered [fe80::1008%6]:5353 -> _airdrop._tcp.local. PTR
+22:21:14.042 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:21:14.043 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:21:14.044 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:21:14.045 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:22:14.256 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:22:14.256 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:22:14.259 mdns: answered 192.168.178.1:5353 -> windows-pc-airdrop.local. ANY
+22:22:14.259 mdns: answered [fe80::1006%6]:5353 -> windows-pc-airdrop.local. ANY
+22:22:40.961 mdns: answered 192.168.178.67:5353 -> _airdrop._tcp.local. PTR (QU)

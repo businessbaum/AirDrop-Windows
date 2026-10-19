@@ -1,0 +1,10 @@
+# 2026-09-17T22:02:04.4322894+02:00
+POST /Discover HTTP/1.1
+# remote: ::ffff:192.168.178.105:53954
+Accept: */*
+Host: 192.168.178.105:8771
+User-Agent: curl/8.21.0
+Content-Type: application/octet-stream
+Content-Length: 2
+
+# body: 2 bytes -> 001-Discover.plist

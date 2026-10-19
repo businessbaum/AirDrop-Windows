@@ -1,0 +1,13 @@
+# Dot11 OID probe, 2026-09-17T19:19:16.7545599+00:00
+# adapter: RZ608 Wi-Fi 6E 80MHz  guid={326b7bc5-6c34-4786-9941-238e2b53b692}  mac=02:00:00:00:00:03
+# npcap device: \Device\NPF_{326b7bc5-6c34-4786-9941-238e2b53b692}
+
+OID_DOT11_OPERATION_MODE_CAPABILITY (0x0D010307):
+  raw bytes        : 000000000200000000000000000100000001000074000000
+  uNumOfTXBuffers  : 256
+  uNumOfRXBuffers  : 256
+  uOpModeCapability: 0x00000074 = ext_station(managed),wfd_device,wfd_owner,wfd_client
+
+OID_DOT11_CURRENT_OPERATION_MODE (0x0D010308):
+  raw bytes      : 0000000004000000
+  uCurrentOpMode : 0x00000004 = ext_station(managed)

@@ -1,0 +1,630 @@
+{
+  "SchemaVersion": "capabilities-v1",
+  "ObservedOn": "2026-09-17T21:19:16.713839+02:00",
+  "RunId": "20260917-211916",
+  "MachineName": "DESKTOP-3DNHRAM",
+  "ElevatedProcess": false,
+  "Host": {
+    "osDescription": "Microsoft Windows 10.0.26200",
+    "osVersion": "10.0.26200.0",
+    "architecture": "X64",
+    "dotnet": ".NET 10.0.8",
+    "utcNow": "2026-09-17T19:19:16.7160856+00:00"
+  },
+  "Adapters": [
+    {
+      "id": "{FA5931A8-CEB7-42D0-AB83-AAAD25329A02}",
+      "name": "Ethernet",
+      "description": "Killer E3100G 2.5 Gigabit Ethernet Controller",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:02",
+      "speedBps": 1000000000
+    },
+    {
+      "id": "{326B7BC5-6C34-4786-9941-238E2B53B692}",
+      "name": "WLAN",
+      "description": "RZ608 Wi-Fi 6E 80MHz",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:03",
+      "speedBps": -1
+    },
+    {
+      "id": "{C4E85900-8362-4F6C-83A8-D5434163BCD7}",
+      "name": "LAN-Verbindung* 1",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:04",
+      "speedBps": -1
+    },
+    {
+      "id": "{A858207E-6DDD-449B-BDFC-E4B76B6C068F}",
+      "name": "LAN-Verbindung* 2",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #2",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:05",
+      "speedBps": -1
+    },
+    {
+      "id": "{4EB1F3C1-C18B-4D05-B453-A26849DA4E3B}",
+      "name": "VMware Network Adapter VMnet1",
+      "description": "VMware Virtual Ethernet Adapter for VMnet1",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:06",
+      "speedBps": 100000000
+    },
+    {
+      "id": "{36AD32B5-6A8F-4A91-83BD-8518B608EC81}",
+      "name": "VMware Network Adapter VMnet8",
+      "description": "VMware Virtual Ethernet Adapter for VMnet8",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:07",
+      "speedBps": 100000000
+    },
+    {
+      "id": "{9DBD37DA-8A4B-11EF-A5BA-806E6F6E6963}",
+      "name": "Loopback Pseudo-Interface 1",
+      "description": "Software Loopback Interface 1",
+      "type": "Loopback",
+      "status": "Up",
+      "mac": "",
+      "speedBps": 1073741824
+    },
+    {
+      "id": "{A9D0A15A-7079-11F1-A671-0CEF1517DDF1}",
+      "name": "VMware Network Adapter VMnet1-Npcap Packet Driver (NPCAP)-0000",
+      "description": "VMware Virtual Ethernet Adapter for VMnet1-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:06",
+      "speedBps": 100000000
+    },
+    {
+      "id": "{A9D0A160-7079-11F1-A671-0CEF1517DDF1}",
+      "name": "VMware Network Adapter VMnet8-Npcap Packet Driver (NPCAP)-0000",
+      "description": "VMware Virtual Ethernet Adapter for VMnet8-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:07",
+      "speedBps": 100000000
+    },
+    {
+      "id": "{3C93F11D-7A13-11F0-A608-9C6B00511829}",
+      "name": "Ethernet-Netmon Lightweight Filter Driver-0000",
+      "description": "Killer E3100G 2.5 Gigabit Ethernet Controller-Netmon Lightweight Filter Driver-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:02",
+      "speedBps": 1000000000
+    },
+    {
+      "id": "{5CA47099-B2BB-11F1-A6E4-806E6F6E6963}",
+      "name": "Ethernet-WFP Native MAC Layer LightWeight Filter-0000",
+      "description": "Killer E3100G 2.5 Gigabit Ethernet Controller-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:02",
+      "speedBps": 1000000000
+    },
+    {
+      "id": "{3C93F04B-7A13-11F0-A608-9C6B00511829}",
+      "name": "Ethernet-Npcap Packet Driver (NPCAP)-0000",
+      "description": "Killer E3100G 2.5 Gigabit Ethernet Controller-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:02",
+      "speedBps": 1000000000
+    },
+    {
+      "id": "{5CA4709A-B2BB-11F1-A6E4-806E6F6E6963}",
+      "name": "Ethernet-QoS Packet Scheduler-0000",
+      "description": "Killer E3100G 2.5 Gigabit Ethernet Controller-QoS Packet Scheduler-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:02",
+      "speedBps": 1000000000
+    },
+    {
+      "id": "{5CA4709B-B2BB-11F1-A6E4-806E6F6E6963}",
+      "name": "Ethernet-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "description": "Killer E3100G 2.5 Gigabit Ethernet Controller-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "02:00:00:00:00:02",
+      "speedBps": 1000000000
+    },
+    {
+      "id": "{5CA4714C-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 8-WFP Native MAC Layer LightWeight Filter-0000",
+      "description": "WAN Miniport (IP)-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F045-7A13-11F0-A608-9C6B00511829}",
+      "name": "LAN-Verbindung* 8-Npcap Packet Driver (NPCAP)-0000",
+      "description": "WAN Miniport (IP)-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA4714D-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 8-QoS Packet Scheduler-0000",
+      "description": "WAN Miniport (IP)-QoS Packet Scheduler-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA4714E-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 9-WFP Native MAC Layer LightWeight Filter-0000",
+      "description": "WAN Miniport (IPv6)-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F044-7A13-11F0-A608-9C6B00511829}",
+      "name": "LAN-Verbindung* 9-Npcap Packet Driver (NPCAP)-0000",
+      "description": "WAN Miniport (IPv6)-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA47151-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 9-QoS Packet Scheduler-0000",
+      "description": "WAN Miniport (IPv6)-QoS Packet Scheduler-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA47152-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 10-WFP Native MAC Layer LightWeight Filter-0000",
+      "description": "WAN Miniport (Network Monitor)-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F048-7A13-11F0-A608-9C6B00511829}",
+      "name": "LAN-Verbindung* 10-Npcap Packet Driver (NPCAP)-0000",
+      "description": "WAN Miniport (Network Monitor)-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA47153-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 10-QoS Packet Scheduler-0000",
+      "description": "WAN Miniport (Network Monitor)-QoS Packet Scheduler-0000",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{3AD9E929-E8AF-43E0-90EB-6F879E72EBA2}",
+      "name": "Ethernet (Kerneldebugger)",
+      "description": "Microsoft Kernel Debug Network Adapter",
+      "type": "Ethernet",
+      "status": "NotPresent",
+      "mac": "",
+      "speedBps": 0
+    },
+    {
+      "id": "{818CC5C6-5B35-4283-A29A-033809A26431}",
+      "name": "LAN-Verbindung* 8",
+      "description": "WAN Miniport (IP)",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{3FB8265A-FD4E-424C-9451-5672C9688708}",
+      "name": "LAN-Verbindung* 9",
+      "description": "WAN Miniport (IPv6)",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{ADB7B323-6D80-49A7-9892-A95A51FC62B0}",
+      "name": "LAN-Verbindung* 10",
+      "description": "WAN Miniport (Network Monitor)",
+      "type": "Ethernet",
+      "status": "Up",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{F17D4D6D-D0DE-42FE-B071-EFC7D1D071C5}",
+      "name": "Bluetooth-Netzwerkverbindung",
+      "description": "Bluetooth Device (Personal Area Network)",
+      "type": "Ethernet",
+      "status": "Down",
+      "mac": "02:00:00:00:00:08",
+      "speedBps": 3000000
+    },
+    {
+      "id": "{E41D3E67-02AE-4298-A001-5E019DB8E6E7}",
+      "name": "LAN-Verbindung* 7",
+      "description": "WAN Miniport (PPPOE)",
+      "type": "Ppp",
+      "status": "Down",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F0FE-7A13-11F0-A608-9C6B00511829}",
+      "name": "WLAN-Netmon Lightweight Filter Driver-0000",
+      "description": "RZ608 Wi-Fi 6E 80MHz-Netmon Lightweight Filter Driver-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:03",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA470F9-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "WLAN-WFP Native MAC Layer LightWeight Filter-0000",
+      "description": "RZ608 Wi-Fi 6E 80MHz-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:03",
+      "speedBps": -1
+    },
+    {
+      "id": "{4F11DC34-FF57-11EF-A5E4-A67C733DDC4B}",
+      "name": "WLAN-Virtual WiFi Filter Driver-0000",
+      "description": "RZ608 Wi-Fi 6E 80MHz-Virtual WiFi Filter Driver-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:03",
+      "speedBps": -1
+    },
+    {
+      "id": "{4F11DC35-FF57-11EF-A5E4-A67C733DDC4B}",
+      "name": "WLAN-Native WiFi Filter Driver-0000",
+      "description": "RZ608 Wi-Fi 6E 80MHz-Native WiFi Filter Driver-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:03",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F117-7A13-11F0-A608-9C6B00511829}",
+      "name": "LAN-Verbindung* 1-Netmon Lightweight Filter Driver-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter-Netmon Lightweight Filter Driver-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:04",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA4713C-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 1-WFP Native MAC Layer LightWeight Filter-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:04",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA470FB-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "WLAN-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "description": "RZ608 Wi-Fi 6E 80MHz-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:03",
+      "speedBps": -1
+    },
+    {
+      "id": "{4F11DCB6-FF57-11EF-A5E4-9C6B00511829}",
+      "name": "LAN-Verbindung* 1-Native WiFi Filter Driver-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter-Native WiFi Filter Driver-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:04",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F049-7A13-11F0-A608-9C6B00511829}",
+      "name": "LAN-Verbindung* 1-Npcap Packet Driver (NPCAP)-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:04",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F042-7A13-11F0-A608-9C6B00511829}",
+      "name": "WLAN-Npcap Packet Driver (NPCAP)-0000",
+      "description": "RZ608 Wi-Fi 6E 80MHz-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:03",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA4719A-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 1-QoS Packet Scheduler-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter-QoS Packet Scheduler-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:04",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA4719B-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "WLAN-QoS Packet Scheduler-0000",
+      "description": "RZ608 Wi-Fi 6E 80MHz-QoS Packet Scheduler-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:03",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA4719C-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 1-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:04",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F10D-7A13-11F0-A608-9C6B00511829}",
+      "name": "LAN-Verbindung* 2-Netmon Lightweight Filter Driver-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #2-Netmon Lightweight Filter Driver-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:05",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA47408-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 2-WFP Native MAC Layer LightWeight Filter-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #2-WFP Native MAC Layer LightWeight Filter-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:05",
+      "speedBps": -1
+    },
+    {
+      "id": "{4F11DEB0-FF57-11EF-A5E4-9C6B00511829}",
+      "name": "LAN-Verbindung* 2-Native WiFi Filter Driver-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #2-Native WiFi Filter Driver-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:05",
+      "speedBps": -1
+    },
+    {
+      "id": "{3C93F046-7A13-11F0-A608-9C6B00511829}",
+      "name": "LAN-Verbindung* 2-Npcap Packet Driver (NPCAP)-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #2-Npcap Packet Driver (NPCAP)-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:05",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA47409-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 2-QoS Packet Scheduler-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #2-QoS Packet Scheduler-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:05",
+      "speedBps": -1
+    },
+    {
+      "id": "{5CA4740A-B2BB-11F1-A6E4-0CEF1517DDF1}",
+      "name": "LAN-Verbindung* 2-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #2-WFP 802.3 MAC Layer LightWeight Filter-0000",
+      "type": "Wireless80211",
+      "status": "Down",
+      "mac": "02:00:00:00:00:05",
+      "speedBps": -1
+    },
+    {
+      "id": "{AE742597-718C-4BC9-AB14-C2484651DCB5}",
+      "name": "WLAN 2",
+      "description": "TP-Link Wireless USB Adapter",
+      "type": "Wireless80211",
+      "status": "NotPresent",
+      "mac": "",
+      "speedBps": 0
+    },
+    {
+      "id": "{50E8B586-F2B1-4834-90F2-66332CF9E67F}",
+      "name": "LAN-Verbindung* 11",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #3",
+      "type": "Wireless80211",
+      "status": "NotPresent",
+      "mac": "",
+      "speedBps": 0
+    },
+    {
+      "id": "{11542B16-DF58-47E8-9721-FA296D9DDD6E}",
+      "name": "LAN-Verbindung* 12",
+      "description": "Microsoft Wi-Fi Direct Virtual Adapter #4",
+      "type": "Wireless80211",
+      "status": "NotPresent",
+      "mac": "",
+      "speedBps": 0
+    },
+    {
+      "id": "{93123211-9629-4E04-82F0-EA2E4F221468}",
+      "name": "Teredo Tunneling Pseudo-Interface",
+      "description": "Microsoft Teredo Tunneling Adapter",
+      "type": "Tunnel",
+      "status": "NotPresent",
+      "mac": "00:00:00:00:00:00:00:e0",
+      "speedBps": 0
+    },
+    {
+      "id": "{2EE2C70C-A092-4D88-A654-98C8D7645CD5}",
+      "name": "Microsoft IP-HTTPS Platform Interface",
+      "description": "Microsoft IP-HTTPS Platform Adapter",
+      "type": "Tunnel",
+      "status": "NotPresent",
+      "mac": "",
+      "speedBps": 0
+    },
+    {
+      "id": "{07374750-E68B-490E-9330-9FD785CD71B6}",
+      "name": "6to4 Adapter",
+      "description": "Microsoft 6to4 Adapter",
+      "type": "Tunnel",
+      "status": "NotPresent",
+      "mac": "",
+      "speedBps": 0
+    },
+    {
+      "id": "{0C76A154-E4FB-4A65-B9F7-16549A81032D}",
+      "name": "LAN-Verbindung* 3",
+      "description": "WAN Miniport (SSTP)",
+      "type": "Tunnel",
+      "status": "Down",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{8BF1C547-CACE-4935-9719-637D14273CA0}",
+      "name": "LAN-Verbindung* 4",
+      "description": "WAN Miniport (IKEv2)",
+      "type": "Tunnel",
+      "status": "Down",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{B88EE724-B826-4C1B-B308-DEB8C62DE7F4}",
+      "name": "LAN-Verbindung* 5",
+      "description": "WAN Miniport (L2TP)",
+      "type": "Tunnel",
+      "status": "Down",
+      "mac": "",
+      "speedBps": -1
+    },
+    {
+      "id": "{F23F7745-D2DD-4432-A7FD-4750C8F48E74}",
+      "name": "LAN-Verbindung* 6",
+      "description": "WAN Miniport (PPTP)",
+      "type": "Tunnel",
+      "status": "Down",
+      "mac": "",
+      "speedBps": -1
+    }
+  ],
+  "WlanDriver": {
+    "found": true,
+    "description": "RZ608 Wi-Fi 6E 80MHz",
+    "interfaceGuid": "{326b7bc5-6c34-4786-9941-238e2b53b692}",
+    "mac": "02:00:00:00:00:03",
+    "operationalStatus": "Down",
+    "npcapDeviceName": "\\Device\\NPF_{326b7bc5-6c34-4786-9941-238e2b53b692}",
+    "dot11OpModeCapabilityMask": "0x00000074",
+    "dot11OpModeCapabilityDecoded": "ext_station(managed),wfd_device,wfd_owner,wfd_client",
+    "dot11NumTxBuffers": 256,
+    "dot11NumRxBuffers": 256,
+    "dot11CurrentOperationMode": "0x00000004 = ext_station(managed)"
+  },
+  "Npcap": {
+    "installDir": "C:\\Windows\\System32\\Npcap",
+    "wpcapPresent": true,
+    "wpcapVersion": "1.10.4",
+    "serviceStatus": "Running",
+    "parameters": {
+      "LoopbackSupport": 1,
+      "DltNull": 1,
+      "Edition": "Npcap",
+      "AdminOnly": 0,
+      "Dot11Support": 0,
+      "NdisImPlatformBindingOptions": 2,
+      "DefaultFilterSettings": 1,
+      "VlanSupport": 0,
+      "WinPcapCompatible": 0
+    },
+    "packetDllVersion": "1.80"
+  },
+  "Capabilities": {
+    "rawRx": {
+      "Name": "rawRx",
+      "State": "Unsupported",
+      "Rationale": "Miniport operation-mode capability 0x00000074 does not include DOT11_OPERATION_MODE_NETWORK_MONITOR (0x80000000). Monitor mode cannot be entered.",
+      "EvidenceIds": [
+        "dot11-oid-probe.txt"
+      ],
+      "Limitations": []
+    },
+    "rawTxAction": {
+      "Name": "rawTxAction",
+      "State": "Unsupported",
+      "Rationale": "No monitor mode on this miniport; Windows exposes no other documented user-mode raw 802.11 TX path.",
+      "EvidenceIds": [],
+      "Limitations": []
+    },
+    "rawTxData": {
+      "Name": "rawTxData",
+      "State": "Unsupported",
+      "Rationale": "Same as rawTxAction.",
+      "EvidenceIds": [],
+      "Limitations": []
+    },
+    "channelControl": {
+      "Name": "channelControl",
+      "State": "Unsupported",
+      "Rationale": "WlanHelper/Npcap channel control requires monitor mode (OID_DOT11_CURRENT_CHANNEL in NetMon).",
+      "EvidenceIds": [],
+      "Limitations": []
+    },
+    "hardwareAck": {
+      "Name": "hardwareAck",
+      "State": "Unknown",
+      "Rationale": "No probe implemented; meaningless until raw TX exists.",
+      "EvidenceIds": [],
+      "Limitations": []
+    },
+    "timestampSource": {
+      "Name": "timestampSource",
+      "State": "Unknown",
+      "Rationale": "No probe implemented; requires monitor-mode RX metadata.",
+      "EvidenceIds": [],
+      "Limitations": []
+    },
+    "macAddressing": {
+      "Name": "macAddressing",
+      "State": "Unknown",
+      "Rationale": "No probe implemented; requires raw TX.",
+      "EvidenceIds": [],
+      "Limitations": []
+    }
+  },
+  "EvidenceFiles": [
+    "dot11-oid-probe.txt",
+    "netsh-wlan-show-drivers.txt",
+    "netsh-wlan-show-wirelesscapabilities.txt",
+    "netsh-wlan-show-interfaces.txt",
+    "wlanhelper-modes.txt",
+    "wlanhelper-mode.txt"
+  ]
+}

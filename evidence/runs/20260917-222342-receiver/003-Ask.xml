@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BundleID</key>
+	<string>com.apple.finder</string>
+	<key>Files</key>
+	<array>
+		<dict>
+			<key>FileBundleName</key>
+			<string>hello.txt</string>
+			<key>FileName</key>
+			<string>hello.txt</string>
+			<key>FileType</key>
+			<string>public.data</string>
+		</dict>
+	</array>
+	<key>SenderComputerName</key>
+	<string>Selbsttest-iPhone</string>
+	<key>SenderID</key>
+	<string>selftest</string>
+	<key>SenderModelName</key>
+	<string>iPhone17,1</string>
+	<key>TransferID</key>
+	<string>11111111-2222-3333-4444-555555555555</string>
+</dict>
+</plist>
